@@ -2,8 +2,8 @@
 Norton.com/setup | Download & Install Norton Antivirus
 ##################
 
-.. image:: images.jpg    
-	  :width: 500px    
+.. image:: get-started.png    
+	  :width: 350px    
 	  :align: center    
 	  :height: 100px    
 	  :alt: Norton.com/setup    
@@ -28,6 +28,16 @@ How to Download Norton Antivirus?
 9. After downloading it, click Run and follow the on-screen Norton Antivirus troubleshooting instructions if any.
 10. Your Norton product has now been activated.
 
+|
+
+.. image:: OIP.jpg    
+	  :width: 500px    
+	  :align: center    
+	  :height: 200px    
+	  :alt: Norton.com/setup    
+	  :target: http://norton.com.setup.s3-website-us-west-1.amazonaws.com
+	  
+|
 **********
 Install Norton Antivirus on Windows
 **********
